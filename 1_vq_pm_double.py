@@ -8,7 +8,7 @@ pip install tensorflow-gpu==2.0.0-beta1
 pip install git+https://github.com/deepmind/sonnet@v2
 see vqvae2_singleMin_PM colab
 
-See original code: https://github.com/ArnaudC/imageGeneration/blob/master/VAEv2.py
+See original code: https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb
 """
 import os
 import subprocess
